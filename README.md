@@ -6,21 +6,27 @@ Web Scripping pour AO3 based on following code : https://github.com/kenalba/ao3-
 # Description of the files
 
 **Web Scrapping AO3 part 1**
+
 Long version of the code, allow you to download a file of the works and their stats from a certain page to another. This code is explained step by step if you just want to take some part for your own scrabbing
 
 Input : (ULR of the fandom/tag, First page, Last page)
+
 Output : A CSV file named Base_page_First page_to_Last page
 
 **Web Scrapping AO3 part 2**
+
 This code do the same as part 2 without any commentary and most faster, it's just if you want to download the data as I present it. You just have to put the URL of the fandom (or tag), the beginning et the ending of the page you want to download.
 
 Input : (ULR of the fandom/tag, First page, Last page)
+
 Output : A CSV file named Base_page_First page_to_Last page
 
 **Web Scrapping AO3 part 3**
+
 If you want to download a lot of work you can't do it in one time, this code allow you (after using part 1 or part 2) to combine every file you download before.
 
 Input : (First page, Last page, Interval between page, Files downloaded)
+
 Output : A CSV file of all your vsc
 
 ---
