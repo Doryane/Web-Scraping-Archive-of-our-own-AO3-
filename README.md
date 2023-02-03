@@ -78,3 +78,12 @@ If you want to download multiple page of data work from AO3 *you can't do it in 
 Once you've done this step you must have a bunch of file called *per example* "base_page_0_to_31","base_page_30_to_61",..."base_page_90_to_121".
 
 Use the part 3 code to mash up every base and you got a unique database of all the work you wanted from AO3.
+
+
+# Contact
+
+If you have any question on how the code work or you have a problem running it here my mail, even if I doubt anyone is gonna use this code.
+
+Mail : Doryaneklein@gmail.com
+
+PS : If in my comment I said I did this code at work it was obviously during my breaks and lunchtime.
